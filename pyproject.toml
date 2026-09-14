@@ -6,6 +6,11 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "git-changelog>=2.9.7",
+    "jieba>=0.42.1",
+    "pandas>=3.0.5",
+    "pandas-stubs>=3.0.5.260730",
+    "thulac>=0.2.2",
+    "tqdm>=4.70.1",
 ]
 
 [dependency-groups]
