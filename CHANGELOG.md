@@ -5,6 +5,7 @@
 
 ### Features
 
+- rename ([551342e](https://github.com/DaoChaShao/py-bayes-cls/commit/551342ead76d39660d0ffbce6e2c5cf26f324f05))
 - **data:** add spam email dataset with initial samples ([4310019](https://github.com/DaoChaShao/py-bayes-cls/commit/4310019dae58b1b7fb7b18210297cc4611d6c117))
 - **bayes-classifier:** add Chinese email classification system using THULAC ([6d8d977](https://github.com/DaoChaShao/py-bayes-cls/commit/6d8d9773c57f7b672c81ea8fd0ba30eb95939abf))
 - **bayes-classifier:** add naive bayes email classification system ([ed22c90](https://github.com/DaoChaShao/py-bayes-cls/commit/ed22c9046e5ac2ed1434befbac46e226b534e490))
@@ -26,7 +27,7 @@
 
 ### Chore
 
-- **data:** add gitignore and email data file ([924f69d](https://github.com/DaoChaShao/py-bayes-cls/commit/924f69de27890c667bfcae72690537a2a4235bd3))
+- **data:** add gitignore and email data file ([6eb9fd6](https://github.com/DaoChaShao/py-bayes-cls/commit/6eb9fd6db54650f84d0cd86d011221ccad450867))
 - **deps:** update uv.lock with new resolution markers and packages ([3915724](https://github.com/DaoChaShao/py-bayes-cls/commit/3915724e2d8768d0c0e78c9d85e20be2d5c8cb20))
 - **data:** add gitignore for python project ([e4cab9e](https://github.com/DaoChaShao/py-bayes-cls/commit/e4cab9e96c3d0b2954e6807ee58a4af7ce29fe01))
 - **project:** initialize project with changelog and dependency updates ([0be4284](https://github.com/DaoChaShao/py-bayes-cls/commit/0be428433ee344ff8e8b9b527759ceffdcd00731))
