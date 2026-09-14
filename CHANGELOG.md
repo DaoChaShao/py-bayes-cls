@@ -26,6 +26,7 @@
 
 ### Chore
 
+- **data:** add gitignore and email data file ([924f69d](https://github.com/DaoChaShao/py-bayes-cls/commit/924f69de27890c667bfcae72690537a2a4235bd3))
 - **deps:** update uv.lock with new resolution markers and packages ([3915724](https://github.com/DaoChaShao/py-bayes-cls/commit/3915724e2d8768d0c0e78c9d85e20be2d5c8cb20))
 - **data:** add gitignore for python project ([e4cab9e](https://github.com/DaoChaShao/py-bayes-cls/commit/e4cab9e96c3d0b2954e6807ee58a4af7ce29fe01))
 - **project:** initialize project with changelog and dependency updates ([0be4284](https://github.com/DaoChaShao/py-bayes-cls/commit/0be428433ee344ff8e8b9b527759ceffdcd00731))
@@ -37,6 +38,7 @@
 
 ### Docs
 
+- **changelog:** update changelog with new data documentation ([a3830b0](https://github.com/DaoChaShao/py-bayes-cls/commit/a3830b03eb9d52512079c95651d9db55f7e57f41))
 - **changelog:** update changelog with correct commit hashes and add data documentation ([67acf1c](https://github.com/DaoChaShao/py-bayes-cls/commit/67acf1c5457f078cf53fcd04c875e7207046a6cb))
 - **data:** add email dataset and gitignore configuration ([150f3b1](https://github.com/DaoChaShao/py-bayes-cls/commit/150f3b10fd31278f68eeffc0bfb15bbad9985fce))
 - **readme:** add Chinese README with privacy policy and setup instructions ([feda312](https://github.com/DaoChaShao/py-bayes-cls/commit/feda312d3443f6b3fe0bb3c272c39aa7cc9d5278))
