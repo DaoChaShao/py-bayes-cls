@@ -5,6 +5,7 @@
 
 ### Features
 
+- **data:** add spam email dataset with initial samples ([4310019](https://github.com/DaoChaShao/py-bayes-cls/commit/4310019dae58b1b7fb7b18210297cc4611d6c117))
 - **bayes-classifier:** add Chinese email classification system using THULAC ([6d8d977](https://github.com/DaoChaShao/py-bayes-cls/commit/6d8d9773c57f7b672c81ea8fd0ba30eb95939abf))
 - **bayes-classifier:** add naive bayes email classification system ([ed22c90](https://github.com/DaoChaShao/py-bayes-cls/commit/ed22c9046e5ac2ed1434befbac46e226b534e490))
 - **email:** add naive bayes email classification system ([b915812](https://github.com/DaoChaShao/py-bayes-cls/commit/b915812fd4e5e9d6dc087d73b99101f43464154c))
@@ -36,6 +37,7 @@
 
 ### Docs
 
+- **changelog:** update changelog with correct commit hashes and add data documentation ([67acf1c](https://github.com/DaoChaShao/py-bayes-cls/commit/67acf1c5457f078cf53fcd04c875e7207046a6cb))
 - **data:** add email dataset and gitignore configuration ([150f3b1](https://github.com/DaoChaShao/py-bayes-cls/commit/150f3b10fd31278f68eeffc0bfb15bbad9985fce))
 - **readme:** add Chinese README with privacy policy and setup instructions ([feda312](https://github.com/DaoChaShao/py-bayes-cls/commit/feda312d3443f6b3fe0bb3c272c39aa7cc9d5278))
 - **readme:** add comprehensive README with privacy notice and setup instructions ([291f7f0](https://github.com/DaoChaShao/py-bayes-cls/commit/291f7f07c769ff21f6db84f9aff338fb85c5db37))
